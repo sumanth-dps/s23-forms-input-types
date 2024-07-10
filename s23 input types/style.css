@@ -1,0 +1,18 @@
+label {
+  display: inline-block;
+  width: 150px;
+}
+div {
+  margin: 15px;
+  margin-left: 10px;
+}
+form {
+  background-color: rgb(200, 219, 247);
+  display: inline-block;
+  padding: 10px;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
